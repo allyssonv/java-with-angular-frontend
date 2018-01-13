@@ -11,4 +11,5 @@
 ## using:
 
 ### @angular/cli (frontend folder)
+### the build result points to folder --> "outDir": "../src/main/webapp" (defined at angular-cli.json)
 ### base href (index.html): /demo/
